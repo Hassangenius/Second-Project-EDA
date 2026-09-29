@@ -21,10 +21,14 @@ Quantitative Analysis
 
 Numerical and data analysis
 
-
 Qualtative Analysis
 
 Research to support the hypothesis
 
 Charts are used in this project to represent the outcomes of the analysis
+
+​Resources
+https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=53971​
+
+https://www.mtbonnell.com/move-to-the-usa/usa-culture/entrepreneurism-in-europe-vs-usa
 
